@@ -1,0 +1,2 @@
+# Safe-Driving-system
+Drinking and driving is a serious public vigor problem, which is likely to emerge as one of the most noteworthy problems in the near prospect. Not only drunken drive, but also driving rudely without wearing seat belts in cars causes a lot of tragic lethal deaths. The Alcohol Detection with Engine Locking system helps to reduce accidents which are occurring due to drunk driving. Along with alcohol detection, system also checks whether the driver has worn the seatbelt or not. If it satisfies all the conditions, the vehicle will start.
